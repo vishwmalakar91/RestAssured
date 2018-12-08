@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="MySuit" verbose="1" >
+  <test name="Test1">
+    <classes>
+       <class name="com.Interview.RestAssured.AppTest" />
+    </classes>
+  </test>
+    <test name="Test2">
+    <classes>
+       <class name="com.Interview.RestAssured.Get_Response" />
+    </classes>
+  </test>
+</suite>
