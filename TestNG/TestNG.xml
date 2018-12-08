@@ -11,4 +11,16 @@
        <class name="com.Interview.RestAssured.Get_Response" />
     </classes>
   </test>
+      <test name="Test3">
+    <classes>
+       <class name="com.Interview.RestAssured.Get_Res_Header" />
+       <class name="com.Interview.RestAssured.Validate_Response" />
+    </classes>
+  </test>
+  <test name="Test4">
+    <classes>
+       <class name="com.Interview.RestAssured.Validate_Status_Code" />
+       <class name="com.Interview.RestAssured.Post_Req" />
+    </classes>
+  </test>
 </suite>
